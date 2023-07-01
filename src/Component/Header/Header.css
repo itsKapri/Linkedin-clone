@@ -42,4 +42,6 @@
   
   .header_right {
     display: flex;
+    align-items: center;
+    margin-top: 6px;
   }

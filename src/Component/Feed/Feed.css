@@ -1,0 +1,71 @@
+.feed {
+    flex: 0.6;
+    margin: 0 30px;
+    flex-direction: column;
+
+  }
+  .feed_input{
+    display: flex;
+    background-color: white;
+    padding: 10px;
+    align-items: center;
+    border-radius: 10px;
+    flex-direction: column;
+  }
+
+  .feed .feed_input form{
+    display: flex;
+    align-items: center;
+    flex: 1;
+
+  }
+
+  .feed .feed_input form input[type='text']{
+    flex: 1;
+    border-radius: 20px;
+    padding: 0px 10px;
+    margin-left: 10px;
+    height: 40px;
+    border: 1px solid #ccc;
+  }
+
+  .feed .feed_input form input[type='submit']{
+    display: none   ;
+  }
+
+  .feed .feed_input .css-i4bv87-MuiSvgIcon-root{
+    width: 48px;
+    height: 48px;
+  }
+
+ .feed .feed_options{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    cursor: pointer;
+    font-size: 20px;
+    border-radius: 5px;
+    width: 95%;
+   
+  }
+  .feed_options .option{
+    display: flex;
+    align-items: center;
+    border-radius: 5px;
+    font-size: 14px;
+    color: #333;
+    margin-top: 10px;
+  }
+  .feed_options .option:hover{
+    display: flex;
+    align-items: center;
+    border-radius: 5px;
+    font-size: 14px;
+    color: #333;
+    background-color: lightgray;
+  }
+
+  .feed_form{
+    display: flex;
+    width: 100%;
+  }
