@@ -38,10 +38,6 @@ function Sidebar() {
                 <p className="hash"><span>#</span>Javascript</p>
                 <p className="hash"><span>#</span>C++</p>
                 <p className="hash"><span>#</span>Programming</p>
-
-
-
-
             </div>
         </div>
     )

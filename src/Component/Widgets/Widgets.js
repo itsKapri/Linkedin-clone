@@ -3,19 +3,6 @@ import './Widgets.css';
 import InfoIcon from '@mui/icons-material/Info';
 import Footer from '../Footer/Footer';
 function Widgets() {
-    // const newsArticle = (heading, subtitle) => (
-    //     <div className="widget_article">
-    //         <div className="widgets_articleleft">
-    //             <FiberManualRecordIcon />
-    //         </div>
-
-    //         <div className="widgets_articleright">
-    //             <h4>{heading}</h4>
-    //             <p>{subtitle}</p>
-    //         </div>
-    //     </div>
-    // );
-
     return (
         <>
             <div className="widgets">
@@ -47,15 +34,11 @@ function Widgets() {
                         </ul>
                     </div>
                 </div>
-
-
+                
                 <div className="widget_ad">
                     <img src="https://media.licdn.com/media/AAYQAgTPAAgAAQAAAAAAADVuOvKzTF-3RD6j-qFPqhubBQ.png" alt="" srcset="" />
                 </div>
                 <Footer />
-
-                {/* {newsArticle("Coronavirus: Lagos updates", "Tops news - 324 readers")}
-            {newsArticle("Bitcoin hits new high", "Tops news - 2,324 readers")} */}
             </div>
 
         </>
