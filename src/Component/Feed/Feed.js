@@ -36,8 +36,12 @@ function Feed() {
         </div>
     </div>
     </div>
+    <Post name="Harley Ferguson" description="React is osm" message="Lorem ipsum dolor, sit amet consectetur adipisicing elit. Tenetur nam voluptatem deserunt beatae" photoURL="https://media.licdn.com/dms/image/C4D03AQG80WkU57Xrfg/profile-displayphoto-shrink_100_100/0/1655990143525?e=1693440000&v=beta&t=3F87WXcQLxklBc_tib36rA2uRNA4PCzkK0qXsAF1v_E" />
+    <Post name="Harley Ferguson" description="React is osm" message="Lorem ipsum dolor, sit amet consectetur adipisicing elit. Tenetur nam voluptatem deserunt beatae" photoURL="https://media.licdn.com/dms/image/C4D03AQG80WkU57Xrfg/profile-displayphoto-shrink_100_100/0/1655990143525?e=1693440000&v=beta&t=3F87WXcQLxklBc_tib36rA2uRNA4PCzkK0qXsAF1v_E" />
+
     <Post name="L'Oréal" description="React is osm" message="Lorem ipsum dolor, sit amet consectetur adipisicing elit. Tenetur nam voluptatem deserunt beatae" photoURL="https://media.licdn.com/dms/image/C5603AQF7F4bTxUnxRA/profile-displayphoto-shrink_100_100/0/1610271757735?e=1693440000&v=beta&t=ZZMaCqwo9v23e8cCMTDKBjQSe_VR6SbKWLWIwqVe3h0"  postMedia="https://media.licdn.com/dms/image/D5622AQEUOZA8vDwz6g/feedshare-shrink_800/0/1688144678385?e=1691020800&v=beta&t=QaTgIa74tTTidTtHfJp1sgrVbYalGrFWwO7AVZLuFnY"/>
     <Post name="Harley Ferguson" description="React is osm" message="Lorem ipsum dolor, sit amet consectetur adipisicing elit. Tenetur nam voluptatem deserunt beatae" photoURL="https://media.licdn.com/dms/image/C4D03AQG80WkU57Xrfg/profile-displayphoto-shrink_100_100/0/1655990143525?e=1693440000&v=beta&t=3F87WXcQLxklBc_tib36rA2uRNA4PCzkK0qXsAF1v_E"  postMedia="https://wp.technologyreview.com/wp-content/uploads/2022/07/government-tech-insider.png"/>
+
 
 
    </div>

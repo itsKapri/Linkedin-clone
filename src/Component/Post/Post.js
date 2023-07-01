@@ -20,11 +20,13 @@ function Post({name,description, message, photoURL,postMedia}) {
             </div>
 
             <div className="post_body">
-                <p>{ message} </p>
-                <div className="img">
-                    <img src={postMedia} alt="" />
-                </div>
-            </div>
+        <p>{message}</p>
+        {postMedia && (
+          <div className="img">
+            <img src={postMedia} alt="" />
+          </div>
+        )}
+      </div>
             <div className="post_footer">
                 <div className="post_footer_option">
                     <ThumbUpIcon></ThumbUpIcon>
