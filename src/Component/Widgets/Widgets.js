@@ -1,7 +1,7 @@
 import React from 'react';
 import './Widgets.css';
 import InfoIcon from '@mui/icons-material/Info';
-import FiberManualRecordIcon from '@mui/icons-material/FiberManualRecord';
+import Footer from '../Footer/Footer';
 function Widgets() {
     // const newsArticle = (heading, subtitle) => (
     //     <div className="widget_article">
@@ -52,31 +52,8 @@ function Widgets() {
                 <div className="widget_ad">
                     <img src="https://media.licdn.com/media/AAYQAgTPAAgAAQAAAAAAADVuOvKzTF-3RD6j-qFPqhubBQ.png" alt="" srcset="" />
                 </div>
+                <Footer />
 
-                {/* <div className="widget_footer">
-                    <div className="footer_about">
-                    About
-Accessibility
-Help Center
-
-Privacy & Terms 
-Ad Choices
-Advertising
-
-Business Services 
-
-
-
-
-
-
-Get the LinkedIn app
-More
-                    </div>
-                    <div className="footer_copyright">
-
-                    </div>
-                </div> */}
                 {/* {newsArticle("Coronavirus: Lagos updates", "Tops news - 324 readers")}
             {newsArticle("Bitcoin hits new high", "Tops news - 2,324 readers")} */}
             </div>

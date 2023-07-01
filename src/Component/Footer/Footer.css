@@ -1,0 +1,16 @@
+.footer{
+    margin-top: 10px;
+    margin-bottom: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.footer span{
+    font-size: 14px;
+    color:#5f5f5e;
+    margin-left: 5px;
+}
+.footer svg{
+    color: #378fe9;
+}
